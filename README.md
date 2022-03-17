@@ -1,6 +1,6 @@
 # Static-and-non-static-units
 
-There are two major types of CSS units, we have the dynamic and static units. There is a feature of each unit that enables it to be classified under either dynamic or static units.
+There are two major types of CSS units, we have the dynamic(non static) and static units. There is a feature of each unit that enables it to be classified under either dynamic or static units.
 
 Dynamic units are the units which are set relative to some other value. A typical example of a dyu=namic unit is the percent. When an item's width or size is set to percent, the item always changes in size upon reduction of the screen width or viewport. This is usually used for websites that will have a mobile view, a desktop and a tablet view as well.
 
